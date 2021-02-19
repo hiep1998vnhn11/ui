@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import VueI18n from 'vue-i18n'
-import viMessage from './lang/vi.json'
-import enMessage from './lang/en.json'
-import jaMessage from './lang/ja.json'
+import viMessage from './langs/vi.json'
+import enMessage from './langs/en.json'
+import jaMessage from './langs/ja.json'
 import Cookies from 'js-cookie'
 
 Vue.use(VueI18n)
